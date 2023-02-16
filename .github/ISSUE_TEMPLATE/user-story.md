@@ -7,18 +7,22 @@ assignees: ''
 
 ---
 
-**As a** Manager
- **I need** A mailing service
- **So that** I can send mail to customers
+**As a** [role]  
+ **I need** [function]  
+ **So that** [benefit]  
    
  ### Details and Assumptions
- * A mailing service database
- * A UI 
- * SMTP service
+ * [document what you know]
    
  ### Acceptance Criteria  
    
  ```gherkin
- Given I'm logged in as a manager
- When i mail customers
- Then the customers should receive the mail immediately
+ Given [some context]
+ When [certain action is taken]
+ Then [the outcome of action is observed]
+ ```
+
+
+
+
+
